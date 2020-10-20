@@ -1,0 +1,6 @@
+.Tab {
+    display: block;
+    background-color: lightcyan;
+    border: 1px solid grey;
+    padding: 10px;
+}

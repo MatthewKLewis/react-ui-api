@@ -1,0 +1,6 @@
+.TabContainer {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    height: 100px;
+    width: 600px;
+}
