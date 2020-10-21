@@ -4,10 +4,10 @@ import './Content.css';
 //Import Components
 
 
-function Content() {
+function Content({content}) {
   return (
     <div className="Content">
-      <h1>Content</h1>
+      <p>{content}</p>
     </div>
   );
 }

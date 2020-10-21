@@ -1,6 +1,15 @@
+.frameHeader {
+    margin-top: 100px;
+    background-color: #ddd;
+    width: 1000px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
 .TabContainer {
     display: grid;
     grid-template-columns: auto auto auto auto;
     height: 100px;
-    width: 600px;
+    width: 1000px;
 }

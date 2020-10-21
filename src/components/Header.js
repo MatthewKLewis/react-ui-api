@@ -7,7 +7,7 @@ import './Header.css';
 function Header() {
   return (
     <div className="Header">
-      <h1>UI and API</h1>
+      <h1>The Films of Studio Ghibli</h1>
     </div>
   );
 }

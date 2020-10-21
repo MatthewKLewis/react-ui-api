@@ -1,9 +1,9 @@
 import React from 'react';
 import './Tab.css';
 
-function Tab() {
+function Tab({info, label, action}) {
   return (
-    <button className="Tab">A</button>
+  <button onClick={action} className="Tab">{label}</button>
   );
 }
 
